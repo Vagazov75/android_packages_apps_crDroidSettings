@@ -290,7 +290,7 @@
   <string name="position_right_title">Праворуч</string>
   <string name="position_centered_title">По центру</string>
   <string name="help">Довідка</string>
-  <string name="reset_message">Reset all entries to default?</string>
+  <string name="reset_message">Скинути всі записи за замовчуванням?</string>
   <string name="profiles_add">Додати</string>
   <string name="profile_choose_app">Оберіть додаток</string>
   <string name="profile_reset_title">Скинути</string>
@@ -302,11 +302,11 @@
   <string name="navbar_interface_title">Інтерфейс</string>
   <string name="navbar_size">Розмір панелі навігації</string>
   <string name="navbar_mode">Режим навігації</string>
-  <string name="navbar_mode_summary">Select to enable either smartbar or fling</string>
-  <string name="navbar_visibility">Navigation bar</string>
-  <string name="navbar_visibility_summary">Toggle navigation bar visibility</string>
-  <string name="navigationbar_settings_title">Navigation bar</string>
-  <string name="navigationbar_settings_summary">Customize navigation style and behavior</string>
+  <string name="navbar_mode_summary">Виберіть щоб увімкнути smartbar чи fling</string>
+  <string name="navbar_visibility">Навігаційна панель</string>
+  <string name="navbar_visibility_summary">Видимість панелі навігації</string>
+  <string name="navigationbar_settings_title">Навігаційна панель</string>
+  <string name="navigationbar_settings_summary">Налаштувати стиль і поведінку</string>
   <string name="navbar_general_title">Інші налаштування</string>
   <string name="navigation_bar_left_title">Режим для лівші</string>
   <string name="navigation_bar_left_summary">Показувати панель навігації зліва в альбомній орієнтації</string>
@@ -315,7 +315,7 @@
   <string name="icon_pack_picker_dialog_title">Набори іконок</string>
   <string name="image_exceeds_max_allowed_size">Зображення не може перевищувати 512х512</string>
   <string name="invalid_icon_from_uri">Не вдається завантажити зображення від провайдера</string>
-  <string name="picker_activities">Activities</string>
+  <string name="picker_activities">Активні Додатки</string>
   <string name="select_custom_app_title">Вибрати власний додаток</string>
   <string name="select_custom_activity_title">Вибрати власну дію</string>
   <string name="profile_applist_title">Додатки</string>
@@ -351,21 +351,21 @@
   <string name="fling_double_left_tap">Подвійне натискання зліва</string>
   <string name="fling_long_left_press">Тривале натискання зліва</string>
   <string name="long_swipe_portrait_title">Книжкова орієнтація</string>
-  <string name="long_swipe_landscape_title">Landscape</string>
+  <string name="long_swipe_landscape_title">Горизонтальна орієнтація</string>
   <string name="portrait_right_swipe_title">Свайп справа в книжковій орієнтації</string>
   <string name="portrait_left_swipe_title">Свайп зліва в книжковій орієнтації</string>
-  <string name="landscape_right_swipe_title">Landscape right swipe</string>
-  <string name="landscape_left_swipe_title">Landscape left swipe</string>
-  <string name="vertical_up_swipe_title">Vertical up swipe</string>
-  <string name="vertical_down_swipe_title">Vertical down swipe</string>
-  <string name="up_swipe_title">Up swipe</string>
-  <string name="down_swipe_title">Down swipe</string>
+  <string name="landscape_right_swipe_title">Свайп справа в горизонтальній орієнтації</string>
+  <string name="landscape_left_swipe_title">Свайп зліва в горизонтальній орієнтації</string>
+  <string name="vertical_up_swipe_title">Вертикальний свайп вгору</string>
+  <string name="vertical_down_swipe_title">Вертикальний свайп вниз</string>
+  <string name="up_swipe_title">Свайп вверх</string>
+  <string name="down_swipe_title">Свайп вниз</string>
   <string name="long_swipe_reset">Скинути</string>
   <string name="fling_advanced">Розширені налаштування</string>
-  <string name="fling_long_swipe_title">Long swipe thresholds</string>
-  <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
-  <string name="fling_trails_enable_title">Enable gesture trails</string>
-  <string name="fling_trails_enable_summary">Show a trail on swipe gestures</string>
+  <string name="fling_long_swipe_title">Тривалість довгого свайпу</string>
+  <string name="fling_long_swipe_summary">Точне регулювання порогу довгого свайпа, заснована на відсотках від ширини і довжини панелі Fling</string>
+  <string name="fling_trails_enable_title">Увімкнути сліди від жестів</string>
+  <string name="fling_trails_enable_summary">Відображати сліди від жестів</string>
   <string name="fling_trails_color_title">Колір сліду</string>
   <string name="fling_trails_width_title">Ширина сліду</string>
   <string name="fling_appearance">Вигляд</string>
@@ -373,8 +373,8 @@
   <string name="fling_animate_logo_title">Анімація логотипу</string>
   <string name="fling_animate_logo_summary">Анімація логотипу при дотику</string>
   <string name="fling_logo_color">Колір логотипу</string>
-  <string name="fling_logo_custom_logo_pick_title">Custom logo icon</string>
-  <string name="fling_logo_custom_logo_image_pick_title">Custom logo image</string>
+  <string name="fling_logo_custom_logo_pick_title">Користувацький логотип</string>
+  <string name="fling_logo_custom_logo_image_pick_title">Користувацька картинка</string>
   <string name="fling_logo_custom_logo_reset_title">Відновити значко логотипу</string>
   <string name="fling_show_ripple_title">Відображати пульсацію</string>
   <string name="fling_show_ripple_summary">Ефект пульсації при дотику</string>
@@ -383,23 +383,23 @@
   <string name="fling_longpress_timeout_label_right">Збільшити затримку</string>
   <string name="fling_longpress_title">Затримка тривалого натискання</string>
   <string name="fling_longpress_summary">Збільшити або зменшити час, необхідний для тривалого натискання</string>
-  <string name="fling_keyboard_cursors_title">Dynamic keyboard cursors action</string>
-  <string name="fling_keyboard_cursors_summary">Double tap left and right actions becomes left and right keyboard cursor actions if keyboard is open</string>
-  <string name="fling_logo_opacity_title">Fling logo opacity</string>
+  <string name="fling_keyboard_cursors_title">Динамічна дія курсорів клавіатури</string>
+  <string name="fling_keyboard_cursors_summary">Подвійні натискання зліва і справа стають рухами курсора клавіатури вліво і вправо при відкритій клавіатурі</string>
+  <string name="fling_logo_opacity_title">Непрозорість логотипу Fling</string>
   <!-- Pulse navigation bar music visualizer -->
   <string name="pulse_help_policy_notice_title">Про Pulse</string>
   <string name="pulse_help_policy_notice_summary">Pulse це графічний аудіо еквалайзер на панелі навігації, що відображається коли ґрає музика. Pulse не працює з деякими джерелами звуку при прослуховуванні через динамік пристрою</string>
   <string name="pulse_settings">Pulse</string>
-  <string name="pulse_settings_summary">Navigation bar audio graphic equalizer</string>
+  <string name="pulse_settings_summary">Панель навігації з аудіо графічним еквалайзером</string>
   <string name="fling_show_pulse_title">Показати Pulse</string>
   <string name="fling_show_pulse_summary">Увімкнути візуалізацію аудіо на панелі навігації</string>
   <string name="pulse_render_mode_title">Режим візуалізації</string>
   <string name="pulse_render_mode_fading_bars">Згасаючі блоки</string>
   <string name="pulse_render_mode_solid_lines">Суцільні лінії</string>
   <string name="fling_pulse_color">Колір Pulse</string>
-  <string name="fling_pulse_color_summary">Used also as fallback for automatic color</string>
+  <string name="fling_pulse_color_summary">Також використовується як резервний для автоматичного підбору кольору</string>
   <string name="eos_fling_lavalamp_title">Увімкнути Лавову лампу</string>
-  <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
+  <string name="eos_fling_lavalamp_summary">Випадкові кольори в стилі \"Лава Лампи\"</string>
   <string name="pulse_advanced_category">Розширені налаштування</string>
   <string name="pulse_legacy_mode_advanced_category">Налаштування згасаючих блоків</string>
   <string name="pulse_custom_fudge_factor">Рівень розсудливості</string>
@@ -409,8 +409,8 @@
   <string name="pulse_solid_dimen_category">Налаштування режиму суцільних ліній</string>
   <string name="fling_lavalamp_color_from">Початковий колір лавової лампи</string>
   <string name="fling_lavalamp_color_to">Кінцевий колір лавової лампи</string>
-  <string name="pulse_custom_buttons_opacity_title">Smartbar buttons opacity on Pulse</string>
-  <string name="pulse_auto_color_title">Automatic Pulse color</string>
+  <string name="pulse_custom_buttons_opacity_title">Smartbar непрозорість кнопок на Pulse</string>
+  <string name="pulse_auto_color_title">Автоматичний колір Pulse</string>
   <string name="pulse_auto_color_summary">Встановити колір відповідно до кольору обкладинки альбому. Перевизначає непрозорість ліній лавової лампи</string>
   <!-- Pulse config -->
   <string name="pulse_custom_dimen">Ширина блоків</string>
@@ -419,9 +419,9 @@
   <string name="pulse_empty_block_size">Відстань між блоками</string>
   <!-- Navbar height -->
   <string name="navigation_bar_size_title">Розмір блоку</string>
-  <string name="portrait_title">Portrait height</string>
-  <string name="land_vert_title">Landscape width</string>
-  <string name="land_hor_title">Landscape height</string>
+  <string name="portrait_title">Висота в книжковому режимі</string>
+  <string name="land_vert_title">Ширина в альбомному режимі</string>
+  <string name="land_hor_title">Вистота в альбомному режимі</string>
   <string name="positive_done">Готово</string>
   <!-- Stock navbar -->
   <string name="navbar_settings_title">Stock navbar settings</string>
@@ -464,11 +464,11 @@
   <string name="smartbar_config_restore_error_toast">Помилка при відновленні профілю Smartbar</string>
   <string name="navbar_buttons_alpha_title">Прозорість кнопок</string>
   <string name="smartbar_longpress_delay_title">Затримка при тривалому натисканні кнопки</string>
-  <string name="smartbar_longpress_delay_summary">Set how long the system will wait before triggering a longpress action</string>
+  <string name="smartbar_longpress_delay_summary">Встановити, як довго система буде чекати, перш ніж спрацює дія на довгому натисненні</string>
   <string name="smartbar_longpress_delay_default">Стандартна затримка (швидко)</string>
   <string name="smartbar_longpress_delay_normal">Нормальна затримка</string>
   <string name="smartbar_longpress_delay_long">Довга затримка</string>
-  <string name="smartbar_custom_icon_size_title">Custom icon scaling</string>
+  <string name="smartbar_custom_icon_size_title">Налаштування масштабування піктограм</string>
   <!-- Allow fake signature -->
   <string name="allow_signature_fake">Allow signature spoofing</string>
   <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
@@ -484,7 +484,7 @@
   <string name="status_bar_quick_qs_pulldown_off">Вимкнено</string>
   <string name="status_bar_quick_qs_pulldown_left">Ліворуч</string>
   <string name="status_bar_quick_qs_pulldown_right">Праворуч</string>
-  <string name="status_bar_quick_qs_pulldown_always">Always show quick settings on status bar pull down</string>
+  <string name="status_bar_quick_qs_pulldown_always">Завжди витягати швидкі налаштування</string>
   <!-- Status bar - Clock -->
   <string name="status_bar_clock_title">Час і дата</string>
   <string name="status_bar_clock_summary">Display and customize clock &amp; date</string>
@@ -511,7 +511,7 @@
   <string name="status_bar_battery_style_tile_summary">Use same icon style as above in QS battery tile</string>
   <!-- Status bar - Battery custom charging symbol -->
   <string name="text_charging_symbol_title">Символ зарядки поруч з процентами заряду</string>
-  <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
+  <string name="text_charging_symbol_dialog">Символ зарядки поблизу відсотка</string>
   <string name="text_charging_symbol_default">Вимкнено</string>
   <string name="text_charging_symbol_flash">Блискавка</string>
   <string name="text_charging_symbol_tilde">Тильда</string>
@@ -524,24 +524,24 @@
   <string name="status_bar_icons_title">Іконки панелі статусу</string>
   <string name="status_bar_icons_summary">Керування відображенням іконок панелі статусу</string>
   <!-- Power notification controls -->
-  <string name="power_notification_title">Power notification controls</string>
+  <string name="power_notification_title">Розширене налаштування сповіщень</string>
   <string name="power_notification_summary">Advanced notification controls and information</string>
   <string name="sound_dnd_category">Не турбувати</string>
   <!-- Volume down enter do not disturb -->
-  <string name="volbtn_down_zen_title">Volume down</string>
+  <string name="volbtn_down_zen_title">Тихіше</string>
   <string name="volbtn_down_zen_summary">Allow volume down to enter DND mode</string>
   <!-- Volume up exit do not disturb -->
-  <string name="volbtn_up_zen_title">Volume up</string>
+  <string name="volbtn_up_zen_title">Гучніше</string>
   <string name="volbtn_up_zen_summary">Allow volume up to exit DND mode</string>
   <!-- Volume do not disturb switch -->
-  <string name="vol_zen_title">Volume panel</string>
-  <string name="vol_zen_summary">Show DND with volume controls</string>
+  <string name="vol_zen_title">Панель гучності</string>
+  <string name="vol_zen_summary">Показувати регулятори гучності</string>
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Battery bar</string>
+  <string name="battery_bar_title">Індикатор заряду батареї</string>
   <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
-  <string name="battery_bar">Location</string>
-  <string name="battery_bar_no_navbar">Location</string>
-  <string name="battery_bar_location_hide">Hide</string>
+  <string name="battery_bar">Геодані</string>
+  <string name="battery_bar_no_navbar">Геодані</string>
+  <string name="battery_bar_location_hide">Приховати</string>
   <string name="battery_bar_location_statusbar">Statusbar</string>
   <string name="battery_bar_location_top_navbar">Top of navbar</string>
   <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
@@ -610,7 +610,7 @@
   <!-- Heads up timeout -->
   <string name="heads_up_category">Спливаючі сповіщення</string>
   <string name="heads_up_time_out_title">Тривалість</string>
-  <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_time_out_summary">Сповіщення буде показуватися <xliff:g id="number">%d</xliff:g> секунд(и)</string>
   <string name="heads_up_time_out_2sec">2 секунди</string>
   <string name="heads_up_time_out_4sec">4 секунди</string>
   <string name="heads_up_time_out_5sec">5 секунд</string>
@@ -618,18 +618,18 @@
   <string name="heads_up_time_out_8sec">8 секунд</string>
   <string name="heads_up_time_out_10sec">10 секунд</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Snooze timer</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">Таймер повтору</string>
+  <string name="heads_up_snooze_summary_one_minute">Свайп вгору приховає сповіщення від застосунка на 1 хвилину</string>
+  <string name="heads_up_snooze_summary">Свайп вгору по спливаючому сповіщенню приховає його на <xliff:g id="number">%d</xliff:g> хвилин(и)</string>
+  <string name="heads_up_snooze_disabled_summary">Таймер вимкнено</string>
+  <string name="heads_up_snooze_1min">1 хвилина</string>
+  <string name="heads_up_snooze_5min">5 хвилин</string>
+  <string name="heads_up_snooze_10min">10 хвилин</string>
+  <string name="heads_up_snooze_15min">15 хвилин</string>
+  <string name="heads_up_snooze_20min">20 хвилин</string>
   <!-- Option to enable/disable scrolling cache -->
-  <string name="pref_scrollingcache_title">Scrolling cache</string>
-  <string name="pref_scrollingcache_force_enable">Force enable</string>
+  <string name="pref_scrollingcache_title">Кеш прокручування</string>
+  <string name="pref_scrollingcache_force_enable">Примусово увімкнути</string>
   <string name="pref_scrollingcache_default_enable">Default enable</string>
   <string name="pref_scrollingcache_default_disable">Default disable</string>
   <string name="pref_scrollingcache_force_disable">Force disable</string>
