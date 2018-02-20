@@ -508,7 +508,7 @@
   <string name="status_bar_battery_style_text">Текст</string>
   <string name="status_bar_battery_style_hidden">Прихований</string>
   <string name="status_bar_battery_style_tile_title">Перевизначити плитковий батареї</string>
-  <string name="status_bar_battery_style_tile_summary">Use same icon style as above in QS battery tile</string>
+  <string name="status_bar_battery_style_tile_summary">Використовувати ж ікона стилю, як і вище QS плитки батарея</string>
   <!-- Status bar - Battery custom charging symbol -->
   <string name="text_charging_symbol_title">Символ зарядки поруч з процентами заряду</string>
   <string name="text_charging_symbol_dialog">Символ зарядки поблизу відсотка</string>
@@ -525,20 +525,20 @@
   <string name="status_bar_icons_summary">Керування відображенням іконок панелі статусу</string>
   <!-- Power notification controls -->
   <string name="power_notification_title">Розширене налаштування сповіщень</string>
-  <string name="power_notification_summary">Advanced notification controls and information</string>
+  <string name="power_notification_summary">Додаткові елементи керування повідомлення та інформації</string>
   <string name="sound_dnd_category">Не турбувати</string>
   <!-- Volume down enter do not disturb -->
   <string name="volbtn_down_zen_title">Тихіше</string>
-  <string name="volbtn_down_zen_summary">Allow volume down to enter DND mode</string>
+  <string name="volbtn_down_zen_summary">Дозвольте гучність вниз, щоб увійти в режим ДНД</string>
   <!-- Volume up exit do not disturb -->
   <string name="volbtn_up_zen_title">Гучніше</string>
-  <string name="volbtn_up_zen_summary">Allow volume up to exit DND mode</string>
+  <string name="volbtn_up_zen_summary">Дозвольте гучності, щоб вийти з ДНР режим</string>
   <!-- Volume do not disturb switch -->
   <string name="vol_zen_title">Панель гучності</string>
   <string name="vol_zen_summary">Показувати регулятори гучності</string>
   <!-- Battery Bar -->
   <string name="battery_bar_title">Індикатор заряду батареї</string>
-  <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
+  <string name="battery_bar_summary">Дисплей і налаштувати панель батареї вище рядку стану</string>
   <string name="battery_bar">Геодані</string>
   <string name="battery_bar_no_navbar">Геодані</string>
   <string name="battery_bar_location_hide">Приховати</string>
@@ -556,14 +556,14 @@
   <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
   <string name="battery_bar_style_reversed">Reversed</string>
   <string name="battery_bar_use_charging_color">Custom charging color</string>
-  <string name="battery_bar_blend_color_title">Blend colors</string>
-  <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
+  <string name="battery_bar_blend_color_title">Поєднання кольорів</string>
+  <string name="battery_bar_blend_color_summary">Суміш повний/порожній колір, відповідний відсоток батареї</string>
   <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
   <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
   <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
   <!-- Status Bar Ticker -->
   <string name="ticker_screen_title">Ticker</string>
-  <string name="ticker_screen_summary">Show notifications ticker-style in status bar</string>
+  <string name="ticker_screen_summary">Показувати повідомлення тікер в рядку стану</string>
   <string name="ticker_title">Status bar ticker</string>
   <string name="ticker_summary">Enable the status bar ticker</string>
   <string name="ticker_restore_defaults_title">Restore defaults</string>
@@ -710,13 +710,13 @@
   <string name="pickup_sensor_title">Pick up sensor</string>
   <string name="proximity_sensor_title">Proximity sensor</string>
   <string name="tilt_title">Tilt</string>
-  <string name="tilt_summary">Pulse notifications on tilt</string>
+  <string name="tilt_summary">Повідомлення пульсу на нахил</string>
   <string name="pickup_title">Pick up</string>
-  <string name="pickup_summary">Pulse notifications on pick up</string>
+  <string name="pickup_summary">Повідомлення пульсу на забрати</string>
   <string name="handwave_title">Hand wave</string>
-  <string name="handwave_summary">Pulse notifications on hand wave</string>
+  <string name="handwave_summary">Повідомлення пульс на руці хвиля</string>
   <string name="pocket_title">Pocket</string>
-  <string name="pocket_summary">Pulse notifications on removal from pocket</string>
+  <string name="pocket_summary">Повідомлення ульс на видаленні з кишені</string>
   <string name="doze_vibrate">Vibrate</string>
   <string name="doze_vibrate_summary">Duration to vibrate when pulsing notifications</string>
   <!-- Changelog -->
@@ -1031,35 +1031,35 @@
   <string name="blur_mixed_color">Колірний фільтр змішаних шпалер</string>
   <string name="blur_notice">Про функції «Розмиття»</string>
   <string name="blur_notice_summary">Розмиття вимкнено під час перегляду на екрані блокування! Працюють тільки напівпрозорі сповіщення.</string>
-  <string name="blur_colors_notice">What are these colors doing?</string>
-  <string name="blur_colors_notice_summary">These colors are the ones tiniting the BlurBackground. Instead of the normal Grey, you can now choose the colors in the way you like.\nThere are three color filters: One used for light backgrounds, one used for Dark backgrounds and one used for light/dark backgrounds.\nSo how these colors work?\nSimple, as the titles say, the Light filter will be used for Lighter backgrounds, Dark filter for dark backgrounds and the mixed filter one will be used for backgrounds not too dark but neither too light.\nThese colors are used for both BlurBackgrounds: StatusBar and RecentsApps window</string>
-  <string name="blur_expstatus_cat">Expanded statusBar </string>
-  <string name="blur_notifications_cat">Notifications</string>
-  <string name="blur_qs_cat">Quick settings</string>
-  <string name="blur_recents_cat">Recent apps</string>
-  <string name="blur_colors_cat">Blur color filters</string>
-  <string name="blur_notices_cat">Notices</string>
-  <string name="blurred_scale">Blur scale</string>
-  <string name="blurred_scale_summary">Quality of blur image</string>
-  <string name="blurred_radius">Blur radius</string>
-  <string name="blurred_radius_summary">Amount of blur</string>
-  <string name="blur_cat_notice">Notice</string>
-  <string name="blur_cat_notice_summary">Blur personalizations are disabled during keyguard view. Only translucent notifications are enabled.</string>
+  <string name="blur_colors_notice">Що роблять ці кольори?</string>
+  <string name="blur_colors_notice_summary">Це кольори, які фарбують фон розмиття. Замість звичайного сірого, ви можете вибрати кольори, які подобаються Вам. \n Існують три кольорових фільтри: Один для світлих фонів, інший для темних і третій для змішаних. \n Але як ці кольори працюють?? \n Дуже просто, як і говорить їх назва, Світлий фільтр використовується для більш світлих фонів, Темний для темних і змішаний фільтр буде використовуватись для проміжних фонів. І не світлих, але і не темних. \n Ці кольори використовуються для обох фонів розмиття: Рядка стану і для Нещодавніх</string>
+  <string name="blur_expstatus_cat">Розширена рядок стану </string>
+  <string name="blur_notifications_cat">Сповіщення</string>
+  <string name="blur_qs_cat">Швидкі налаштування</string>
+  <string name="blur_recents_cat">Запущені програми</string>
+  <string name="blur_colors_cat">Колірні фільтри розмиття</string>
+  <string name="blur_notices_cat">Сповіщення</string>
+  <string name="blurred_scale">Шкала розмиття</string>
+  <string name="blurred_scale_summary">Якість розмиття зображення</string>
+  <string name="blurred_radius">Радіус розмиття</string>
+  <string name="blurred_radius_summary">Ступінь розмиття</string>
+  <string name="blur_cat_notice">Примітка</string>
+  <string name="blur_cat_notice_summary">Розмиття вимкнено під час перегляду на екрані блокування! Працюють тільки напівпрозорі сповіщення.</string>
   <!-- Sounds: Charging sounds -->
-  <string name="charging_sounds_settings_title">Charging sounds</string>
-  <string name="charging_sounds_settings_summary">Customize sound played when connecting or disconnecting a power source</string>
-  <string name="charging_sounds_enabled_title">Enable</string>
-  <string name="charging_sounds_enabled_summary">Play a sound when connecting or disconnecting a power source</string>
-  <string name="power_notifications_vibrate_title">Vibrate</string>
-  <string name="charging_sounds_ringtone_title">Notification sound</string>
-  <string name="charging_sounds_ringtone_silent">Silent</string>
+  <string name="charging_sounds_settings_title">Звуки зарядження</string>
+  <string name="charging_sounds_settings_summary">Грати звук при підключенні чи від\'єднанні від зарядного пристрою</string>
+  <string name="charging_sounds_enabled_title">Ввімкнено</string>
+  <string name="charging_sounds_enabled_summary">Грати звук при підключенні чи від\'єднанні від зарядного пристрою</string>
+  <string name="power_notifications_vibrate_title">Вібрація</string>
+  <string name="charging_sounds_ringtone_title">Звук сповіщень</string>
+  <string name="charging_sounds_ringtone_silent">Тихий</string>
   <!-- Wakelock blocker -->
-  <string name="wakelock_blocker_title">Wakelock blocker</string>
-  <string name="wakelock_blocker_summary">Block system wakelocks</string>
-  <string name="wakelock_blocker_save">Save</string>
-  <string name="wakelock_list_header">Available wakelocks</string>
-  <string name="wakelock_blocker_reload">Reload</string>
-  <string name="wakelock_blocker_warning_title">Proceed with caution</string>
+  <string name="wakelock_blocker_title">Блокування Wakelock</string>
+  <string name="wakelock_blocker_summary">Блокувати системні wakelock</string>
+  <string name="wakelock_blocker_save">Зберегти</string>
+  <string name="wakelock_list_header">Доступні wakelock\'и</string>
+  <string name="wakelock_blocker_reload">Оновити</string>
+  <string name="wakelock_blocker_warning_title">Використовуйте на свій страх і ризик</string>
   <string name="wakelock_blocker_warning">Blocking wakelocks have the potential to cause instability, crashes or data loss</string>
   <!-- Headers -->
   <string name="status_bar_header_title">Headers</string>
@@ -1125,64 +1125,64 @@
   <string name="recent_panel_expanded_mode_title">Expanded mode</string>
   <string name="recent_panel_expanded_mode_summary">Recent tasks expanded preview mode</string>
   <string name="recent_panel_expanded_mode_auto">Auto (default)</string>
-  <string name="recent_panel_expanded_mode_always">Always</string>
-  <string name="recent_panel_expanded_mode_never">Never</string>
-  <string name="recent_panel_show_topmost_title">Show topmost task</string>
-  <string name="recent_panel_show_topmost_summary">Don\'t exclude the topmost task in recents view</string>
-  <string name="recent_panel_bg_color_title">Panel background color</string>
-  <string name="recent_card_bg_color_title">Card background color</string>
-  <string name="recent_card_text_color_title">Card text color</string>
-  <string name="recent_reset_title">Reset settings</string>
-  <string name="recent_reset_confirm">Are you sure you want to reset Slim Recents to stock settings?</string>
-  <string name="default_auto_string">Default (app based)</string>
-  <string name="recents_icon_pack_title">Icon pack</string>
-  <string name="recents_icon_pack_summary">Apply a custom icon pack for apps in the panel</string>
-  <string name="no_iconpacks_summary">No icon packs installed</string>
-  <string name="dialog_pick_iconpack_title">Pick icon pack</string>
-  <string name="default_iconpack_title">Default icons</string>
-  <string name="dialog_delete_title">Delete</string>
-  <string name="dialog_delete_message">Remove selected item?</string>
-  <string name="slim_recents_corner_radius_title">Use round corners for cards</string>
-  <string name="slim_blacklist_apps_cat_title">Blacklisted apps</string>
-  <string name="slim_blacklist_apps_title">Apps blacklist</string>
+  <string name="recent_panel_expanded_mode_always">Завжди</string>
+  <string name="recent_panel_expanded_mode_never">Ніколи</string>
+  <string name="recent_panel_show_topmost_title">Показати найважливіші задачі</string>
+  <string name="recent_panel_show_topmost_summary">Не вимикати найважливіші задачі в списку недавніх</string>
+  <string name="recent_panel_bg_color_title">Колір фону панелі</string>
+  <string name="recent_card_bg_color_title">Колір картки</string>
+  <string name="recent_card_text_color_title">Колір тексту картки</string>
+  <string name="recent_reset_title">Скинути налаштування</string>
+  <string name="recent_reset_confirm">Ви певні, що хочете повернути стандартні кольори Slim Recents?</string>
+  <string name="default_auto_string">За замовчуванням (залежно від додатку)</string>
+  <string name="recents_icon_pack_title">Набір значків</string>
+  <string name="recents_icon_pack_summary">Застосувати користувацький набір іконок для додатків на панелі</string>
+  <string name="no_iconpacks_summary">Набори значків не встановлені</string>
+  <string name="dialog_pick_iconpack_title">Вибрати набір значків</string>
+  <string name="default_iconpack_title">Типові значки</string>
+  <string name="dialog_delete_title">Видалити</string>
+  <string name="dialog_delete_message">Видалити вибраний елемент?</string>
+  <string name="slim_recents_corner_radius_title">Використовувати круглі кути для карток</string>
+  <string name="slim_blacklist_apps_cat_title">Чорний список додатків</string>
+  <string name="slim_blacklist_apps_title">Чорний список додатків</string>
   <string name="slim_blacklist_apps_summary">Exclude apps to be shown in the panel</string>
-  <string name="slim_blacklist_add_apps_title">Add app</string>
+  <string name="slim_blacklist_add_apps_title">Додати додаток</string>
   <string name="slim_blacklist_add_apps_summary">Tap here to add app to the blacklist</string>
   <string name="slim_blacklist_apps_info">Tap on the added app to remove it</string>
   <!-- ATTENTION: RTL languages need to replace left with right -->
-  <string name="recent_panel_lefty_mode_title">Show on the left edge</string>
-  <string name="recent_panel_lefty_mode_summary">Show recent apps panel on the left edge</string>
+  <string name="recent_panel_lefty_mode_title">Показати у лівому краю</string>
+  <string name="recent_panel_lefty_mode_summary">Показати панель останніх програм у лівому краю</string>
   <!-- Disable FC notifications -->
   <string name="disable_fc_notifications_title">Disable force close</string>
   <string name="disable_fc_notifications_summary">Hide all force close notification dialogs</string>
   <!-- OmniJaws -->
-  <string name="omnijaws_settings_title">Weather service</string>
+  <string name="omnijaws_settings_title">Служба погоди</string>
   <string name="omnijaws_settings_summary">Customize service settings and icon pack</string>
-  <string name="weather_config_title">Service settings</string>
+  <string name="weather_config_title">Налаштування служби</string>
   <string name="weather_config_summary">Configure service to enable weather details</string>
-  <string name="weather_icon_pack_title">Condition icon pack</string>
-  <string name="weather_icon_pack_note">Note\u003a you can install new icon packs from play store by searching for \"Chronus icons\"</string>
+  <string name="weather_icon_pack_title">Піктограма стану</string>
+  <string name="weather_icon_pack_note">Примітка\u003a ви можете встановити нові пакети піктограм із магазину ігор за допомогою іконки \"Chronus\"</string>
   <!-- 4G icon -->
-  <string name="show_fourg_icon_title">4G icon</string>
-  <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+  <string name="show_fourg_icon_title">Значок 4G</string>
+  <string name="show_fourg_icon_summary">Показувати значок 4G замість LTE в рядку стану</string>
   <!-- Roaming indicator icon -->
-  <string name="roaming_indicator_icon_title">Roaming indicator</string>
-  <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
+  <string name="roaming_indicator_icon_title">Індикатор роумінгу</string>
+  <string name="roaming_indicator_icon_summary">Відображати індикатор роумінгу на іконці сигналу коли у роумінгу</string>
   <!-- In-call DND -->
-  <string name="dnd_when_call_title">In-call do not disturb</string>
-  <string name="dnd_when_call_summary">Auto enable DND during calls</string>
+  <string name="dnd_when_call_title">Не турбувати під час дзвінка</string>
+  <string name="dnd_when_call_summary">Автоматичне ввімкнення DND під час дзвінків</string>
   <!-- Bluetooth status -->
-  <string name="bluetooth_battery_title">Bluetooth battery status</string>
-  <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+  <string name="bluetooth_battery_title">Заряд Bluetooth-пристроя</string>
+  <string name="bluetooth_battery_summary">Показувати заряд батареї під\'єднаних в даний час bluetooth-пристрої, якщо доступно</string>
   <!-- Status bar temperature -->
-  <string name="status_bar_weather_title">Weather</string>
-  <string name="status_bar_weather_summary">Display and customize weather on status bar</string>
-  <string name="status_bar_temperature_title">Weather</string>
-  <string name="status_bar_temperature_hidden">Hidden</string>
-  <string name="status_bar_temperature_location_title">Position</string>
-  <string name="status_bar_temperature_location_right">Show on right</string>
-  <string name="status_bar_temperature_location_left">Show on left</string>
-  <string name="status_bar_weather_color_title">Temperature color</string>
+  <string name="status_bar_weather_title">Погода</string>
+  <string name="status_bar_weather_summary">Дисплей і налаштувати панель батареї вище рядку стану</string>
+  <string name="status_bar_temperature_title">Погода</string>
+  <string name="status_bar_temperature_hidden">Прихований</string>
+  <string name="status_bar_temperature_location_title">Позиція</string>
+  <string name="status_bar_temperature_location_right">Показати праворуч</string>
+  <string name="status_bar_temperature_location_left">Показати ліворуч</string>
+  <string name="status_bar_weather_color_title">Колір температури</string>
   <string name="status_bar_weather_hidden">Hide weather</string>
   <string name="status_bar_temperature_image_show_scale">Display image and temp with scale</string>
   <string name="status_bar_temperature_image_hide_scale">Display image and temp without scale</string>
@@ -1234,70 +1234,70 @@
   <string name="toast_icon_title">Toast icon</string>
   <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
   <!-- Lockscreen battery info indicator -->
-  <string name="lockscreen_battery_info_title">Battery info</string>
-  <string name="lockscreen_battery_info_summary">Display battery info when charging</string>
+  <string name="lockscreen_battery_info_title">Інформація про акумулятор</string>
+  <string name="lockscreen_battery_info_summary">Відображення максильну напругу струму та температуру акумулятора на екрані блокування під час зарядки</string>
   <!-- Recents lock icon -->
-  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_title">Піктограма блокування</string>
   <string name="recents_lock_icon_summary">Toggle lock task icon in recent app view</string>
   <!-- AOSP Recents Grid -->
   <string name="recents_use_grid_title">Grid-style recents</string>
   <string name="recents_use_grid_summary">Toggle grid-style recents</string>
   <!-- Recents dismiss icon -->
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="recents_dismiss_icon_title">Припинити</string>
   <string name="recents_dismiss_icon_summary">Toggle dismiss task icon in recent app view</string>
   <!-- Notification guts kill app button -->
-  <string name="notification_guts_kill_app_button_title">Kill app button</string>
-  <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+  <string name="notification_guts_kill_app_button_title">Кнопка завершення додатків</string>
+  <string name="notification_guts_kill_app_button_summary">Показувати кнопку закриття програми при довгому натисненні на сповіщення</string>
   <!-- ANBI -->
-  <string name="anbi_title">Accidental touch</string>
-  <string name="anbi_summary">Prevent interaction with navigation buttons while the screen is being touched</string>
+  <string name="anbi_title">Випадковий дотик</string>
+  <string name="anbi_summary">Запобігати взаємодії з кнопками навігації при натисканні на екран</string>
   <!-- Sensor block -->
   <string name="sensor_block_title">Sensor block</string>
   <string name="sensor_block_summary">Block access to significant motion sensors for few battery intensive apps</string>
   <!-- Pocket judge -->
-  <string name="pocket_judge_title">Pocket detection</string>
-  <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+  <string name="pocket_judge_title">Виявлення телефону в кишені</string>
+  <string name="pocket_judge_summary">Заблокувати екран і кнопки, коли пристрій перебуває в кишені</string>
   <!-- MediaScanner behavior on boot -->
-  <string name="media_scanner_on_boot_title">MediaScanner behavior on boot</string>
-  <string name="media_scanner_on_boot_enabled">Scan media</string>
-  <string name="media_scanner_on_boot_ask">Ask to scan (notification)</string>
-  <string name="media_scanner_on_boot_disabled">Do not scan media</string>
+  <string name="media_scanner_on_boot_title">Поведінка медіа-сканера при завантаженні</string>
+  <string name="media_scanner_on_boot_enabled">Сканувати медіа</string>
+  <string name="media_scanner_on_boot_ask">Запитати про сканування (сповіщення)</string>
+  <string name="media_scanner_on_boot_disabled">Не сканувати медіа</string>
   <!-- FAB -->
-  <string name="fab_reset">Reset settings</string>
+  <string name="fab_reset">Скинути налаштування</string>
   <!-- OTA -->
-  <string name="ota_crdroid_title">Updates</string>
+  <string name="ota_crdroid_title">Оновлення</string>
   <string name="ota_crdroid_summary">Check for OTA update and links for your device</string>
   <!-- Categories -->
-  <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="ota_category">Оновлення</string>
+  <string name="links_category">Посилання</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
-  <string name="maintainer_title">Maintainer</string>
-  <string name="maintainer_unknown">No official maintainer</string>
-  <string name="changelog_title">Changelog</string>
-  <string name="changelog_summary">View changelog</string>
-  <string name="download_title">Download latest build</string>
+  <string name="latest_version">Остання версія: %1$s</string>
+  <string name="unknown">Невідомо</string>
+  <string name="system_uptodate">Ваша система оновлена</string>
+  <string name="maintainer_title">Розробник</string>
+  <string name="maintainer_unknown">Без офіційного супровіду</string>
+  <string name="changelog_title">Журнал змін</string>
+  <string name="changelog_summary">Переглянути список змін</string>
+  <string name="download_title">Завантажити останню версію</string>
   <string name="download_summary">Visit download page</string>
-  <string name="gapps_title">Download gapps</string>
+  <string name="gapps_title">Завантажити gapps</string>
   <string name="gapps_summary">Visit google apps download page</string>
-  <string name="forum_title">Forum</string>
+  <string name="forum_title">Форум</string>
   <string name="forum_summary">View latest discussions</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Перевірити оновлення</string>
+  <string name="last_check_summary">Остання перевірка: %1$s</string>
+  <string name="last_check_never">Ніколи</string>
+  <string name="check_update_failed">Не вдалося перевірити оновлення</string>
+  <string name="no_update_available">Оновлень немає</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_15m">Every 15 minutes</string>
-  <string name="interval_entry_30m">Every 30 minutes</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_title">Інтервал автоматичного оновлення</string>
+  <string name="interval_entry_disable">Вимкнено</string>
+  <string name="interval_entry_15m">Кожні 15 хвилин</string>
+  <string name="interval_entry_30m">Кожні 30 хвилин</string>
+  <string name="interval_entry_1h">Щогодини</string>
+  <string name="interval_entry_12h">Кожні 12 годин</string>
+  <string name="interval_entry_24h">Кожні 24 годин</string>
   <string name="interval_entry_1m">Every 1 min (Test only)</string>
   <string name="autoupdate_enabled">Automatic update is enabled</string>
   <string name="autoupdate_disabled">Automatic update is disabled</string>
@@ -1353,25 +1353,25 @@
   <string name="notification_sound_vib_screen_on_title">Notifications sound and vibration if screen is on</string>
   <string name="notification_sound_vib_screen_on_never">Never</string>
   <string name="notification_sound_vib_screen_on_always">Always (default)</string>
-  <string name="notification_sound_vib_screen_on_nomedia">If no media is playing</string>
+  <string name="notification_sound_vib_screen_on_nomedia">Коли медіа не відтворюється</string>
   <!-- Ambient Ticker -->
-  <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-  <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-  <string name="ambient_ticker_footer">This feature allows for the ability to show the current music track info on the lockscreen with or without Ambient display enabled.\n\nYou can select from two layouts, normal and minimal. While this feature takes advantage of ambient display, it does not depend on it. It can be triggered without having ambient display enabled by using the (forced) options.\n\nNormal view includes the lockscreen clock, date and ticker.\n\nMinimal view includes just the ticker at the center of the screen.</string>
-  <string name="force_ambient_for_media_title">Select layout</string>
-  <string name="force_ambient_for_media_off">Disabled</string>
-  <string name="force_ambient_for_media_on">Normal</string>
-  <string name="force_ambient_for_media_on_forced">Normal (forced)</string>
-  <string name="force_ambient_for_media_on_forced_clean">Minimal (forced)</string>
+  <string name="force_ambient_for_media_pref_title">Індикатор назви музики на неактивному дисплеї</string>
+  <string name="force_ambient_for_media_pref_summary">Налаштування музичного тікера на неактивному дисплеї</string>
+  <string name="ambient_ticker_footer">Ця функція дозволяє відображати поточну інформацію про музичний трек на екрані блокування з включеним Ambient Display або без нього. \ N \ nВи можете вибрати один з двох варіантів, звичайний і мінімальний. Незважаючи на те, що ця функція використовує Ambient Display, вона не залежить від нього. Вона може бути викликана і без Ambient Display, включеного за допомогою (примусово) опцій. \ N \ nЗвичайний вид включає в себе годинник, дату і біжучий рядок. \ N \ nМінімальний вид включає тільки біжучий рядок в центрі екрану.</string>
+  <string name="force_ambient_for_media_title">Виберіть макет</string>
+  <string name="force_ambient_for_media_off">Вимкнено</string>
+  <string name="force_ambient_for_media_on">Звичайний</string>
+  <string name="force_ambient_for_media_on_forced">Нормальний (примусово)</string>
+  <string name="force_ambient_for_media_on_forced_clean">Мінімальний (примусово)</string>
   <!-- Face Auto Unlock -->
-  <string name="face_auto_unlock_title">Face auto unlock</string>
+  <string name="face_auto_unlock_title">Автоматичне розблокування обличчям</string>
   <string name="face_auto_unlock_summary">Dismiss lockscreen automatically after recognizing trusted face</string>
   <!-- Battery image -->
-  <string name="battery_image_title">Battery image</string>
+  <string name="battery_image_title">Зображення акумулятора</string>
   <string name="battery_image_summary">Display battery image</string>
   <!-- Battery percent -->
-  <string name="battery_percent_title">Battery percent</string>
-  <string name="battery_percent_stock">Default behavior</string>
+  <string name="battery_percent_title">Відсоток заряду</string>
+  <string name="battery_percent_stock">Типова поведінка</string>
   <string name="battery_percent_always">Always display</string>
   <string name="battery_percent_never">Never display</string>
 </resources>
