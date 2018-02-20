@@ -177,8 +177,8 @@
   <string name="qs_bt_easy_toggle_title">Швидке перемикання Bluetooth</string>
   <string name="qs_bt_easy_toggle_summary">Один дотик, щоб увімкнути / вимкнути Bluetooth</string>
   <!-- Advanced data tile -->
-  <string name="qs_advanced_data_title">Data easy toggle</string>
-  <string name="qs_advanced_data_summary">Enable one tap action to toggle data</string>
+  <string name="qs_advanced_data_title">Швидке перемикання Мобільних Даних</string>
+  <string name="qs_advanced_data_summary">Один дотик, щоб увімкнути / вимкнути Мобільні Дані</string>
   <!-- Battery Saver easy toggle -->
   <string name="qs_battery_easy_toggle_title">Легке перемикання режиму батареї</string>
   <string name="qs_battery_easy_toggle_summary">Один дотик щоб ввімкнути режим збереження батареї</string>
@@ -190,16 +190,16 @@
   <string name="qs_brightness_slider_summary">Показати повзунок яскравості на панелі швидкого налаштування</string>
   <!-- Quick settings brightness icon -->
   <string name="brightness_icon_title">Встановити автоматичний підбір яскравості</string>
-  <string name="brightness_icon_summary">Show toggle for adaptive brightness near the slider</string>
+  <string name="brightness_icon_summary">Показати перемикач адаптивної яскравості поряд з повзунком</string>
   <!-- Quick settings haptic feedback -->
   <string name="quick_settings_vibrate_title">Вібрація при дотику</string>
   <string name="quick_settings_vibrate_summary">Вібрація при торканні значка швидких налаштувань</string>
   <!-- Force expanded notifications -->
   <string name="force_expanded_notifications_title">Примусово розгортати сповіщення</string>
-  <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+  <string name="force_expanded_notifications_summary">Примусити розширені сповіщення для додатків, які підтримуються</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Disable immersive mode messages</string>
-  <string name="disable_immersive_message_summary">Hide all messages shown in immersive mode</string>
+  <string name="disable_immersive_message_title">Вимкнути спливаючі повідомлення в повноекранному режимі</string>
+  <string name="disable_immersive_message_summary">Прибрати всі повідомлення, що відображається в повноекранному режимі</string>
   <!-- Statusbar categories -->
   <string name="status_bar_icons_category_title">Іконки</string>
   <string name="status_bar_clock_category_title">Годинник і дата</string>
@@ -479,11 +479,11 @@
   <string name="status_bar_notif_count_summary">Показувати кількість нових сповіщень на панелі статусу</string>
   <string name="status_bar_quick_qs_pulldown_title">Швидке розгортання</string>
   <string name="status_bar_quick_qs_pulldown_summary">%1$s панелі статусу відкриває швидкі налаштування</string>
-  <string name="status_bar_quick_qs_pulldown_summary_left">Left</string>
+  <string name="status_bar_quick_qs_pulldown_summary_left">Ліворуч</string>
   <string name="status_bar_quick_qs_pulldown_summary_right">Праворуч</string>
   <string name="status_bar_quick_qs_pulldown_off">Вимкнено</string>
-  <string name="status_bar_quick_qs_pulldown_left">Left</string>
-  <string name="status_bar_quick_qs_pulldown_right">Right</string>
+  <string name="status_bar_quick_qs_pulldown_left">Ліворуч</string>
+  <string name="status_bar_quick_qs_pulldown_right">Праворуч</string>
   <string name="status_bar_quick_qs_pulldown_always">Always show quick settings on status bar pull down</string>
   <!-- Status bar - Clock -->
   <string name="status_bar_clock_title">Час і дата</string>
