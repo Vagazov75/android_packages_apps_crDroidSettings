@@ -1274,16 +1274,16 @@
   <string name="latest_version">Ultima versione: %1$s</string>
   <string name="unknown">Sconosciuto</string>
   <string name="system_uptodate">Il sistema è aggiornato</string>
-  <string name="maintainer_title">Maintainer</string>
-  <string name="maintainer_unknown">No official maintainer</string>
+  <string name="maintainer_title">Manutentore</string>
+  <string name="maintainer_unknown">Nessun manutentore ufficiale</string>
   <string name="changelog_title">Changelog</string>
   <string name="changelog_summary">View changelog</string>
-  <string name="download_title">Download latest build</string>
-  <string name="download_summary">Visit download page</string>
-  <string name="gapps_title">Download gapps</string>
+  <string name="download_title">Scarica l\'ultima versione</string>
+  <string name="download_summary">Vai alla pagina di download</string>
+  <string name="gapps_title">Scarica gapps</string>
   <string name="gapps_summary">Visit google apps download page</string>
   <string name="forum_title">Forum</string>
-  <string name="forum_summary">View latest discussions</string>
+  <string name="forum_summary">Visualizza ultime discussioni</string>
   <!-- Check update -->
   <string name="check_update_title">Controllo aggiornamento</string>
   <string name="last_check_summary">Ultimo controllo: %1$s</string>
