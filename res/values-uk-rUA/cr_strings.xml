@@ -542,50 +542,50 @@
   <string name="battery_bar">Геодані</string>
   <string name="battery_bar_no_navbar">Геодані</string>
   <string name="battery_bar_location_hide">Приховати</string>
-  <string name="battery_bar_location_statusbar">Statusbar</string>
-  <string name="battery_bar_location_top_navbar">Top of navbar</string>
-  <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
+  <string name="battery_bar_location_statusbar">Рядок стану</string>
+  <string name="battery_bar_location_top_navbar">Зверху панелі навігації</string>
+  <string name="battery_bar_location_bottom_navbar">Знизу панелі навігації</string>
   <string name="battery_bar_color">Колір</string>
   <string name="battery_bar_charging_color">Колір під час зарядки</string>
   <string name="battery_bar_battery_low_color">Колір при низькому рівні заряду</string>
   <string name="battery_bar_cat">Стиль</string>
-  <string name="battery_bar_style_title">Alignment</string>
-  <string name="battery_bar_thickness_title">Thickness</string>
-  <string name="battery_bar_animate_title">Charging animation</string>
-  <string name="battery_bar_style_regular">Regular</string>
-  <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
-  <string name="battery_bar_style_reversed">Reversed</string>
-  <string name="battery_bar_use_charging_color">Custom charging color</string>
+  <string name="battery_bar_style_title">Вирівнювання</string>
+  <string name="battery_bar_thickness_title">Товщина</string>
+  <string name="battery_bar_animate_title">Анімація зарядки</string>
+  <string name="battery_bar_style_regular">Звичайне</string>
+  <string name="battery_bar_style_center_mirrored">Дзеркально від центра</string>
+  <string name="battery_bar_style_reversed">У зворотньому порядку</string>
+  <string name="battery_bar_use_charging_color">Інший колір при заряджанні</string>
   <string name="battery_bar_blend_color_title">Поєднання кольорів</string>
   <string name="battery_bar_blend_color_summary">Суміш повний/порожній колір, відповідний відсоток батареї</string>
-  <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-  <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
-  <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+  <string name="battery_bar_blend_color_reverse_title">Зворотній напрямок кольорів</string>
+  <string name="battery_bar_blend_color_reverse_summary_off">Повний &#8594; пустий: червоний &#8592; зелений &#8592; блакитний &#8592; червоний</string>
+  <string name="battery_bar_blend_color_reverse_summary_on">Повний &#8594; пустий: червоний &#8594; зелений &#8594; блакитний &#8594; червоний</string>
   <!-- Status Bar Ticker -->
-  <string name="ticker_screen_title">Ticker</string>
+  <string name="ticker_screen_title">Текст сповіщень</string>
   <string name="ticker_screen_summary">Показувати повідомлення тікер в рядку стану</string>
-  <string name="ticker_title">Status bar ticker</string>
-  <string name="ticker_summary">Enable the status bar ticker</string>
-  <string name="ticker_restore_defaults_title">Restore defaults</string>
-  <string name="text_title">Text</string>
-  <string name="icon_title">Icon</string>
-  <string name="colors_title">Colors</string>
-  <string name="values_restored_title">Values restored</string>
-  <string name="ticker_disabled">No ticker</string>
-  <string name="ticker_enabled">Notification ticker</string>
-  <string name="ticker_media_enabled">Notifications and music ticker</string>
+  <string name="ticker_title">Смужка стану тексту сповіщень</string>
+  <string name="ticker_summary">Увімкнути рядок сповіщень</string>
+  <string name="ticker_restore_defaults_title">Відновити типові</string>
+  <string name="text_title">Текст</string>
+  <string name="icon_title">Піктограма</string>
+  <string name="colors_title">Кольори</string>
+  <string name="values_restored_title">Значення відновлені</string>
+  <string name="ticker_disabled">Жодних сповіщень</string>
+  <string name="ticker_enabled">Текст сповіщень</string>
+  <string name="ticker_media_enabled">Текст сповіщень і музики</string>
   <!-- Pie -->
-  <string name="pie_settings">Pie settings</string>
-  <string name="pie_enable_title">Enable pie</string>
-  <string name="pie_settings_summary">Adjust pie to your liking</string>
-  <string name="pie_theme_mode_title">Theme</string>
-  <string name="pie_auto">Automatic</string>
-  <string name="pie_white">White</string>
-  <string name="pie_dark">Dark</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
+  <string name="pie_settings">Швидкі налаштування</string>
+  <string name="pie_enable_title">Увімкнути Pie</string>
+  <string name="pie_settings_summary">Налаштуйте Pie на свій смак</string>
+  <string name="pie_theme_mode_title">Тема</string>
+  <string name="pie_auto">Автоматичний</string>
+  <string name="pie_white">Білий</string>
+  <string name="pie_dark">Темний</string>
+  <string name="pie_battery_title">Індикатор акумулятора</string>
+  <string name="pie_battery_text">Тільки текст</string>
+  <string name="pie_battery_circle">Тільки коло</string>
+  <string name="pie_battery_both">Обидва</string>
   <string name="pie_status_indicator">Індикатор мережевої активності</string>
   <string name="pie_status_wifi">Тільки Wi-Fi</string>
   <string name="pie_status_mobile">Тільки мобільна мережа</string>
@@ -647,7 +647,7 @@
   <string name="trans_vol_dialog">Панель гучності</string>
   <string name="trans_power_menu">Меню кнопки живлення</string>
   <string name="qs_transparent_shade">Непрозорість штор-панелі сповіщень</string>
-  <string name="qs_stroke_title">QS shade border</string>
+  <string name="qs_stroke_title">Тіні значка швидких налаштувань</string>
   <string name="qs_stroke_disabled">Вимкнено</string>
   <string name="qs_stroke_accent">Контрастний колір</string>
   <string name="qs_stroke_custom">Власний колір</string>
@@ -668,7 +668,7 @@
   <string name="volume_dialog_dash_gap_title">Ширина повзунка гучності</string>
   <string name="power_menu_transparency">Прозорість меню живлення/перезавантаження</string>
   <string name="power_menu_dialog_dim">Затемнення фону при відображенні меню живлення</string>
-  <string name="soft_restart_required">Soft restart required to apply changes</string>
+  <string name="soft_restart_required">М\'яке перезавантаження, необхідне для застосування змін</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Ввімкнено</string>
   <string name="summary_doze_disabled">Вимкнено</string>
@@ -676,7 +676,7 @@
   <string name="doze_overwrite_value_summary">Дозволити зміну користувачем параметрів за замовчуванням</string>
   <string name="doze_pulse_title">Налаштовувані параметри користувача</string>
   <string name="doze_fade_in_pickup_title">Зникнення (Pickup)</string>
-  <string name="doze_fade_in_doubletap_title">Fade in (Double tap)</string>
+  <string name="doze_fade_in_doubletap_title">Затухати в (подвійний тап)</string>
   <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Затримка видимості</string>
   <string name="doze_pulse_duration_visible_summary"></string>
@@ -697,18 +697,18 @@
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Інверсія сповіщень</string>
-  <string name="doze_notification_color_invert_summary_off">Notifications will not be inverted. Use for dark themes.</string>
-  <string name="doze_notification_color_invert_summary_on">Notifications will be inverted. Use for light/stock theme.</string>
-  <string name="doze_vibrate_on_pickup_title">Vibrate on pickup</string>
-  <string name="doze_check_proximity_before_pulse_title">Check proximity before pulse</string>
-  <string name="sensor_warning_title">Caution</string>
+  <string name="doze_notification_color_invert_summary_off">Сповіщення не будуть інвертовані. Використовуйте для темних тем.</string>
+  <string name="doze_notification_color_invert_summary_on">Сповіщення будуть інвертовані. Використовуйте для світлих тем.</string>
+  <string name="doze_vibrate_on_pickup_title">Вібрувати при піднятті телефону</string>
+  <string name="doze_check_proximity_before_pulse_title">Перевірте датчик близькості, перед pulse</string>
+  <string name="sensor_warning_title">Увага</string>
   <string name="sensor_warning_message">Settings based on sensors are subject to hardware compatibility. Enabling sensors for ambient display may increase power drain.</string>
   <!-- Doze: switches -->
-  <string name="doze_display_title">Ambient display</string>
+  <string name="doze_display_title">Активація екрана</string>
   <string name="doze_display_summary">Configure settings for ambient display</string>
-  <string name="tilt_sensor_title">Tilt sensor</string>
+  <string name="tilt_sensor_title">Датчик нахилу</string>
   <string name="pickup_sensor_title">Pick up sensor</string>
-  <string name="proximity_sensor_title">Proximity sensor</string>
+  <string name="proximity_sensor_title">Датчик наближения</string>
   <string name="tilt_title">Tilt</string>
   <string name="tilt_summary">Повідомлення пульсу на нахил</string>
   <string name="pickup_title">Pick up</string>
@@ -718,30 +718,30 @@
   <string name="pocket_title">Pocket</string>
   <string name="pocket_summary">Повідомлення ульс на видаленні з кишені</string>
   <string name="doze_vibrate">Vibrate</string>
-  <string name="doze_vibrate_summary">Duration to vibrate when pulsing notifications</string>
+  <string name="doze_vibrate_summary">Тривалість вібрації при пульсуючому повідомлення</string>
   <!-- Changelog -->
   <string name="changelog_crdroid_title">Changelog</string>
-  <string name="changelog_crdroid_summary">View recent changes in ROM</string>
+  <string name="changelog_crdroid_summary">Перегляд останніх змін в ПЗУ</string>
   <string name="changelog_crdroid_error">Unable to load changelog</string>
   <!-- About crDroid -->
   <string name="about_crdroid">About crDroid</string>
   <!-- Share crDroid -->
   <string name="share_crdroid_title">Share crDroid</string>
-  <string name="share_crdroid_summary">Let others know about crDroid</string>
-  <string name="share_message">Check out what #crDroid is all about @ https://plus.google.com/communities/118297646046960923906</string>
+  <string name="share_crdroid_summary">Нехай інші знають про crDroid</string>
+  <string name="share_message">Перевірити, що #crDroid це все про @ https://plus.google.com/communities/118297646046960923906</string>
   <string name="share_chooser_title">Share crDroid</string>
   <!-- Sites crDroid -->
   <string name="crdroid_source_title">GitHub</string>
-  <string name="crdroid_source_summary">We love open source, check us out</string>
+  <string name="crdroid_source_summary">Ми любимо з відкритим вихідним кодом, перевірте нас</string>
   <string name="crdroid_google_plus_title">Google+</string>
-  <string name="crdroid_google_plus_summary">Join us on G+ for quick updates and support</string>
+  <string name="crdroid_google_plus_summary">Приєднуйтесь до нас на G+ для швидкого оновлення і підтримку</string>
   <!-- Maintainers -->
-  <string name="maintainers_crdroid_title">Devices and maintainers</string>
-  <string name="maintainers_crdroid_summary">List of supported devices and their official maintainers</string>
-  <string name="maintainers_crdroid_error">Unable to load devices and maintainers list</string>
+  <string name="maintainers_crdroid_title">Пристроїв та операторів</string>
+  <string name="maintainers_crdroid_summary">Список підтримуваних пристроїв і їх офіційними супроводжуючими</string>
+  <string name="maintainers_crdroid_error">Не вдалося завантажити пристроїв та супроводжуючих список</string>
   <!-- Donate crDroid -->
   <string name="donate_crdroid_title">Support us</string>
-  <string name="donate_crdroid_summary">Donate to support development and our server</string>
+  <string name="donate_crdroid_summary">Пожертви на підтримку розвитку і нашого сервера</string>
   <!-- Button settings -->
   <string name="hardware_keys_power_key_title">Кнопка живлення</string>
   <string name="hardware_keys_home_key_title">Кнопка \"Додому\"</string>
@@ -749,7 +749,7 @@
   <string name="hardware_keys_menu_key_title">Кнопка «Меню»</string>
   <string name="hardware_keys_assist_key_title">Кнопка «Пошук»</string>
   <string name="hardware_keys_appswitch_key_title">Кнопка «Останні програми»</string>
-  <string name="hardware_keys_camera_key_title">Camera button</string>
+  <string name="hardware_keys_camera_key_title">Кнопка камери</string>
   <string name="hardware_keys_volume_keys_title">Volume buttons</string>
   <string name="hardware_keys_short_press_title">Short press action</string>
   <string name="hardware_keys_long_press_title">Long press action</string>
@@ -864,16 +864,16 @@
   <string name="font_dancingscript">DancingScript</string>
   <string name="font_dancingscript_bold">DancingScript Bold</string>
   <string name="font_comingsoon">ComingSoon</string>
-  <string name="font_notoserif">NotoSerif Normal</string>
-  <string name="font_notoserif_italic">NotoSerif Italic</string>
-  <string name="font_notoserif_bold">NotoSerif Bold</string>
-  <string name="font_notoserif_bold_italic">NotoSerif Bold Italic</string>
-  <string name="font_size_title">Font size</string>
-  <string name="menu_save">Save</string>
-  <string name="menu_cancel">Discard</string>
+  <string name="font_notoserif">NotoSerif Звичайний</string>
+  <string name="font_notoserif_italic">NotoSerif Курсив</string>
+  <string name="font_notoserif_bold">NotoSerif Жирний</string>
+  <string name="font_notoserif_bold_italic">NotoSerif Жирний Курсив</string>
+  <string name="font_size_title">Розмір шрифту</string>
+  <string name="menu_save">Зберегти</string>
+  <string name="menu_cancel">Відмінити</string>
   <!-- QS Header Icons -->
-  <string name="qs_settings_icon_title">Settings shortcut</string>
-  <string name="qs_settings_icon_summary">Enable the settings shortcut in the header</string>
+  <string name="qs_settings_icon_title">Настройки ярлика</string>
+  <string name="qs_settings_icon_summary">Увімкнення ярлика настройок в заголовку</string>
   <string name="qs_settings_expanded_title">Settings shortcut expanded</string>
   <string name="qs_settings_expanded_summary">Only enable the settings shortcut when expanded</string>
   <string name="qs_edit_title">Edit icon</string>
@@ -1088,19 +1088,19 @@
   <string name="screen_state_toggles_title">Suspend actions</string>
   <string name="screen_state_toggles_summary">Actions executed on screen off</string>
   <string name="screen_state_toggles_enable_title">Enable</string>
-  <string name="screen_state_toggles_enable_summary">Actions will be executed on screen off. On screen on the previous state will be restored.</string>
+  <string name="screen_state_toggles_enable_summary">Дії будуть виконуватися на вимкненому екрані. На екрані на Попереднє стан буде відновлено.</string>
   <string name="screen_state_toggles_mobile_title">Mobile networks</string>
   <string name="screen_state_toggles_location_title">Location</string>
   <string name="screen_state_toggles_twog">Switch to 2G</string>
-  <string name="screen_state_toggles_twog_summary">Network mode will be switched to 2G on screen off</string>
+  <string name="screen_state_toggles_twog_summary">Мережевий режим буде перемикатися на 2G на вимкненому екрані</string>
   <string name="screen_state_toggles_gps">Disable GPS</string>
-  <string name="screen_state_toggles_gps_summary">GPS based location service will be disabled on screen off</string>
+  <string name="screen_state_toggles_gps_summary">GPS сервіс на основі місця розташування будуть відключені на вимкненому екрані</string>
   <string name="screen_state_toggles_mobile_data">Disable mobile data</string>
-  <string name="screen_state_toggles_mobile_data_summary">Mobile data will be disabled on screen off</string>
-  <string name="screen_state_off_delay_title">Screen Off actions delay</string>
-  <string name="screen_state_off_delay_summary">Number of seconds to wait before performing actions after screen off</string>
+  <string name="screen_state_toggles_mobile_data_summary">Мобільної передачі даних буде відключена вимкненому екрані</string>
+  <string name="screen_state_off_delay_title">Екран вимкнений дії затримка</string>
+  <string name="screen_state_off_delay_summary">Кількість секунд очікування перед виконанням дій після вимикання екрана</string>
   <string name="screen_state_on_delay_title">Screen On actions delay</string>
-  <string name="screen_state_on_delay_summary">Number of seconds to wait before performing actions after screen on</string>
+  <string name="screen_state_on_delay_summary">Кількість секунд очікування перед виконанням дій після екрана</string>
   <!-- Data/Wifi activity arrows -->
   <string name="data_activity_arrows_title">Data activity</string>
   <string name="data_activity_arrows_summary">Display data activity arrows</string>
@@ -1115,7 +1115,7 @@
   <!-- Slim Recent panel -->
   <string name="slim_recents_title">Slim recents</string>
   <string name="use_slim_recents_title">Slim recents</string>
-  <string name="use_slim_recents_summary">Use slim recents instead of the default recents view</string>
+  <string name="use_slim_recents_summary">Використовуйте тонкий недавні замість стандартного споруда</string>
   <string name="slim_recents_settings_title">Settings</string>
   <string name="slim_recents_settings_summary">View the settings for slim recents</string>
   <string name="recent_panel_category">Slim recent apps panel</string>
@@ -1123,7 +1123,7 @@
   <string name="recents_max_apps_title">Max allowed apps</string>
   <string name="recent_panel_scale_title">Size</string>
   <string name="recent_panel_expanded_mode_title">Expanded mode</string>
-  <string name="recent_panel_expanded_mode_summary">Recent tasks expanded preview mode</string>
+  <string name="recent_panel_expanded_mode_summary">Останні задачі розширеному режимі попереднього перегляду</string>
   <string name="recent_panel_expanded_mode_auto">Auto (default)</string>
   <string name="recent_panel_expanded_mode_always">Завжди</string>
   <string name="recent_panel_expanded_mode_never">Ніколи</string>
@@ -1145,10 +1145,10 @@
   <string name="slim_recents_corner_radius_title">Використовувати круглі кути для карток</string>
   <string name="slim_blacklist_apps_cat_title">Чорний список додатків</string>
   <string name="slim_blacklist_apps_title">Чорний список додатків</string>
-  <string name="slim_blacklist_apps_summary">Exclude apps to be shown in the panel</string>
+  <string name="slim_blacklist_apps_summary">Виключити додатки, які будуть показані на панелі</string>
   <string name="slim_blacklist_add_apps_title">Додати додаток</string>
-  <string name="slim_blacklist_add_apps_summary">Tap here to add app to the blacklist</string>
-  <string name="slim_blacklist_apps_info">Tap on the added app to remove it</string>
+  <string name="slim_blacklist_add_apps_summary">Натисніть тут, щоб додати додаток в чорний список</string>
+  <string name="slim_blacklist_apps_info">Ап на додану додаток, щоб видалити його</string>
   <!-- ATTENTION: RTL languages need to replace left with right -->
   <string name="recent_panel_lefty_mode_title">Показати у лівому краю</string>
   <string name="recent_panel_lefty_mode_summary">Показати панель останніх програм у лівому краю</string>
@@ -1213,7 +1213,7 @@
   <string name="lock_screen_carrier_title">Lock screen carrier</string>
   <string name="lock_screen_carrier_summary">Display carrier on lock screen</string>
   <string name="quick_settings_carrier_title">Quick settings carrier</string>
-  <string name="quick_settings_carrier_summary">Display carrier on status bar pull down</string>
+  <string name="quick_settings_carrier_summary">Носій дисплей в рядку стану тягнути вниз</string>
   <!-- Lockscreen Weather -->
   <string name="lock_screen_weather_title">Weather</string>
   <string name="lock_screen_weather_summary">Display and customize weather on lockscreen</string>
