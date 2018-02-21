@@ -501,10 +501,11 @@
   <string name="status_bar_am_pm_small">Mały</string>
   <string name="status_bar_am_pm_hidden">Ukryty</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_style_title">Styl wskaźnika baterii</string>
+  <string name="status_bar_battery_style_title">Battery style</string>
   <string name="status_bar_battery_style_icon_portrait">Ikona pionowa</string>
   <string name="status_bar_battery_style_icon_landscape">Ikona pozioma</string>
   <string name="status_bar_battery_style_circle">Krąg</string>
+  <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
   <string name="status_bar_battery_style_solid">Stały</string>
   <string name="status_bar_battery_style_text">Tekst</string>
   <string name="status_bar_battery_style_hidden">Ukryty</string>
