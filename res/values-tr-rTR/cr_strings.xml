@@ -1282,10 +1282,10 @@ Sadece yarı saydam bildirimler etkin!</string>
   <string name="changelog_summary">Değişiklikleri görüntüle</string>
   <string name="download_title">En son sürümü indir</string>
   <string name="download_summary">İndirme sayfasını ziyaret edin</string>
-  <string name="gapps_title">Download gapps</string>
-  <string name="gapps_summary">Visit google apps download page</string>
+  <string name="gapps_title">Gapps indir</string>
+  <string name="gapps_summary">Google apps indirme sayfasını ziyaret edin</string>
   <string name="forum_title">Forum</string>
-  <string name="forum_summary">View latest discussions</string>
+  <string name="forum_summary">En son tartışmaları görüntüle</string>
   <!-- Check update -->
   <string name="check_update_title">Güncellemeleri kontrol et</string>
   <string name="last_check_summary">Son kontrol: %1$s</string>
