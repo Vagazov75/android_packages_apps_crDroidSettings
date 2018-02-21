@@ -636,7 +636,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Знімок частини екрану</string>
   <string name="screenshot_type_fullscreen">Повноекранний скріншот</string>
-  <string name="screenshot_type_partial">Drag selection on the area for screenshot via volume keys</string>
+  <string name="screenshot_type_partial">Перетягніть виділення області для скріншота з допомогою клавіші регулювання гучності</string>
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Жест трьома пальцями</string>
   <string name="three_finger_gesture_summary">Проведіть трьома пальцями для скріншоту</string>
@@ -702,12 +702,12 @@
   <string name="doze_vibrate_on_pickup_title">Вібрувати при піднятті телефону</string>
   <string name="doze_check_proximity_before_pulse_title">Перевірте датчик близькості, перед pulse</string>
   <string name="sensor_warning_title">Увага</string>
-  <string name="sensor_warning_message">Settings based on sensors are subject to hardware compatibility. Enabling sensors for ambient display may increase power drain.</string>
+  <string name="sensor_warning_message">Параметрів на основі датчиків за умови сумісності обладнання. Включення датчиків для навколишнього середовища дисплей може збільшити витік енергії.</string>
   <!-- Doze: switches -->
   <string name="doze_display_title">Активація екрана</string>
-  <string name="doze_display_summary">Configure settings for ambient display</string>
+  <string name="doze_display_summary">Налаштування параметрів для навколишнього середовища дисплей</string>
   <string name="tilt_sensor_title">Датчик нахилу</string>
-  <string name="pickup_sensor_title">Pick up sensor</string>
+  <string name="pickup_sensor_title">Підібрати датчик</string>
   <string name="proximity_sensor_title">Датчик наближения</string>
   <string name="tilt_title">Нахил</string>
   <string name="tilt_summary">Повідомлення пульсу на нахил</string>
@@ -792,7 +792,7 @@
   <string name="additional_buttons_title">Додаткові кнопки</string>
   <!-- Key backlight -->
   <string name="button_backlight_title">Підсвічування</string>
-  <string name="button_backlight_summary">Customize button backlight settings</string>
+  <string name="button_backlight_summary">Кнопка налаштування підсвічування</string>
   <string name="button_backlight_enabled">Підсвічувати кнопки</string>
   <string name="keyboard_backlight_enabled">Підсвічування клавіатури</string>
   <string name="button_backlight_seekbar_title">Яскравість кнопок</string>
@@ -887,12 +887,12 @@
   <string name="qs_date_time_center_summary">Потрібно вимкнути один або декілька значків</string>
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Рядок використання ОЗУ</string>
-  <string name="systemui_recents_mem_display_summary">Toggle memory bar in recent app view</string>
+  <string name="systemui_recents_mem_display_summary">Тумблер панель пам\'яті в недавніх переглядати додатки</string>
   <string name="systemui_recents_mem_display_color">Колір шкали використання ОЗП</string>
   <string name="systemui_recents_mem_display_text_color">Колір тексту шкали використання ОЗП</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Очистити всі</string>
-  <string name="show_clear_all_recents_button_summary">Toggle clear all floating button in recent app view</string>
+  <string name="show_clear_all_recents_button_summary">Перемкнути кнопку очистити все плаваючі в останні переглядати додатки</string>
   <string name="recents_clear_all_location_title">Розташування кнопки \"Очистити все\"</string>
   <string name="recents_clear_all_location_top_right">Зверху праворуч</string>
   <string name="recents_clear_all_location_top_left">Зверху ліворуч</string>
@@ -906,7 +906,7 @@
   <string name="restart_app_required">Перезапустіть відповідну програму, щоб побачити ефект</string>
   <!-- Scrolling Animation Controls -->
   <string name="scrolling_title">Прокручування анімації</string>
-  <string name="scrolling_summary">Customize scrolling animation parameters</string>
+  <string name="scrolling_summary">Налаштування прокрутки параметрів анімації</string>
   <string name="animation_fling_velocity_title">Швидкість відкиду</string>
   <string name="animation_scroll_friction_title">Інтенсивність прокрутки</string>
   <string name="animation_overscroll_distance_title">Відстань перекрутки</string>
