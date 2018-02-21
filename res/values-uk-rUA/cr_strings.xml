@@ -917,7 +917,7 @@
   <string name="animation_settings_reset_message">Скинути всі налаштування анімації за заумовчуванням?</string>
   <!-- Alarm Fullscreen -->
   <string name="show_alarm_fullscreen_title">Сигналізація на весь екран</string>
-  <string name="show_alarm_fullscreen_summary">Display alarm as full screen instead of heads up</string>
+  <string name="show_alarm_fullscreen_summary">Відображення сигналу тривоги на весь екран замість голови</string>
   <!-- Custom System Animations -->
   <string name="system_animation_title">Системні анімації</string>
   <string name="system_animation_summary">Настроювання анімації кожного вікна у системі</string>
@@ -937,7 +937,7 @@
   <string name="animation_duration_custom">Указати</string>
   <!-- Toast Animations -->
   <string name="toast_animation_title">Анімація спливаючого сповіщення</string>
-  <string name="toast_animation_test">This is test for toast animation</string>
+  <string name="toast_animation_test">Це тест для тостів анімації</string>
   <string name="toast_none_animation">Немає</string>
   <string name="toast_default_animation">За замовчуванням</string>
   <string name="toast_fade_animation">Затухання</string>
@@ -1010,19 +1010,19 @@
   <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Прискорити та проскочити</string>
   <!-- Fancy tiles animation -->
   <string name="qs_fancy_animation_title">Ефектні QS анімації</string>
-  <string name="qs_fancy_animation_summary">Animate when pulling down the statusbar</string>
+  <string name="qs_fancy_animation_summary">Анімувати якщо потягнути вниз статусну</string>
   <!-- Disable animations -->
   <string name="disable_animations">Вимкнути анімації</string>
   <string name="disable_animations_summary">Відключає анімацію переходу, наприклад, коли запускається додаток</string>
   <!-- XOSP Blur personalizations -->
   <string name="settings_blur_cat">Розмиття</string>
-  <string name="settings_blur_cat_summary">Apply blur personalizations to various elements</string>
+  <string name="settings_blur_cat_summary">Застосувати розмиття персоналізації для різних елементів</string>
   <string name="blurred_status_bar_expanded_enabled_pref">Розмиття фону рядка стану</string>
   <string name="blurred_status_bar_expanded_enabled_pref_summary">Розмивати фон, коли ви потягнете вниз рядок стану</string>
   <string name="translucent_notifications_pref">Прозорі сповіщення</string>
   <string name="translucent_notifications_pref_summary">Зробити тло сповіщень прозорим</string>
   <string name="translucent_quick_settings_pref">Розмиті швидкі налаштування</string>
-  <string name="translucent_quick_settings_pref_summary">Blur the QS tiles and background</string>
+  <string name="translucent_quick_settings_pref_summary">Розмити QS плитки і фон</string>
   <string name="transluency_level_universal">Рівень прозорості</string>
   <string name="blurred_recent_app_enabled_pref">Розмите меню нещодавніх додатків</string>
   <string name="blurred_recent_app_enabled_pref_summary">Розмивати фон меню нещодавніх додатків</string>
@@ -1086,7 +1086,7 @@
   <string name="file_header_provider_title">Користувацьке зображення</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_title">Призупинення дій</string>
-  <string name="screen_state_toggles_summary">Actions executed on screen off</string>
+  <string name="screen_state_toggles_summary">Дії на вимкненому екрані</string>
   <string name="screen_state_toggles_enable_title">Увімкнути</string>
   <string name="screen_state_toggles_enable_summary">Дії будуть виконуватися на вимкненому екрані. На екрані на Попереднє стан буде відновлено.</string>
   <string name="screen_state_toggles_mobile_title">Мобільні мережі</string>
@@ -1108,7 +1108,7 @@
   <string name="wifi_activity_arrows_summary">Відображати стрілки активності передачі даних</string>
   <!-- The Drill -->
   <string name="drill_title">Послання від розробників</string>
-  <string name="drill_summary">Found a bug? Ran into an issue?</string>
+  <string name="drill_summary">Знайшли помилку? Зіткнувся з проблемою?</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Панель статусу</string>
   <string name="lockscreen_hide_status_bar_summary">Відображати рядок стану</string>
@@ -1153,7 +1153,7 @@
   <string name="recent_panel_lefty_mode_title">Показати у лівому краю</string>
   <string name="recent_panel_lefty_mode_summary">Показати панель останніх програм у лівому краю</string>
   <!-- Disable FC notifications -->
-  <string name="disable_fc_notifications_title">Disable force close</string>
+  <string name="disable_fc_notifications_title">Відключити примусово закрити</string>
   <string name="disable_fc_notifications_summary">Hide all force close notification dialogs</string>
   <!-- OmniJaws -->
   <string name="omnijaws_settings_title">Служба погоди</string>
@@ -1365,7 +1365,7 @@
   <string name="force_ambient_for_media_on_forced_clean">Мінімальний (примусово)</string>
   <!-- Face Auto Unlock -->
   <string name="face_auto_unlock_title">Автоматичне розблокування обличчям</string>
-  <string name="face_auto_unlock_summary">Dismiss lockscreen automatically after recognizing trusted face</string>
+  <string name="face_auto_unlock_summary">Звільнити блокування автоматично після визнання довіреної особи</string>
   <!-- Battery image -->
   <string name="battery_image_title">Зображення акумулятора</string>
   <string name="battery_image_summary">Display battery image</string>
