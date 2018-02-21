@@ -1281,9 +1281,9 @@
   <string name="download_title">Aktuellste Version herunterladen</string>
   <string name="download_summary">Zur Downloadseite gehen</string>
   <string name="gapps_title">Gapps herunterladen</string>
-  <string name="gapps_summary">Visit google apps download page</string>
+  <string name="gapps_summary">Zur Gapps Downloadseite gehen</string>
   <string name="forum_title">Forum</string>
-  <string name="forum_summary">View latest discussions</string>
+  <string name="forum_summary">Neueste Diskussionen anzeigen</string>
   <!-- Check update -->
   <string name="check_update_title">Suche nach Updates</string>
   <string name="last_check_summary">Letzte Prüfung: %1$s</string>
