@@ -500,10 +500,11 @@
   <string name="status_bar_am_pm_small">Маленький</string>
   <string name="status_bar_am_pm_hidden">Прихований</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_style_title">Стиль індикатора батареї</string>
+  <string name="status_bar_battery_style_title">Battery style</string>
   <string name="status_bar_battery_style_icon_portrait">Вертикальний значок</string>
   <string name="status_bar_battery_style_icon_landscape">Горизонтальний значок</string>
   <string name="status_bar_battery_style_circle">Коло</string>
+  <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
   <string name="status_bar_battery_style_solid">Суцільний</string>
   <string name="status_bar_battery_style_text">Текст</string>
   <string name="status_bar_battery_style_hidden">Прихований</string>
