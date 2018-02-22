@@ -500,11 +500,11 @@
   <string name="status_bar_am_pm_small">Klein</string>
   <string name="status_bar_am_pm_hidden">Verborgen</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_style_title">Battery style</string>
+  <string name="status_bar_battery_style_title">Batterij stijl</string>
   <string name="status_bar_battery_style_icon_portrait">Icoon portret</string>
   <string name="status_bar_battery_style_icon_landscape">Icoon landscape</string>
   <string name="status_bar_battery_style_circle">Cirkel</string>
-  <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
+  <string name="status_bar_battery_style_dotted_circle">Gestippelde cirkel</string>
   <string name="status_bar_battery_style_solid">Vast</string>
   <string name="status_bar_battery_style_text">Tekst</string>
   <string name="status_bar_battery_style_hidden">Verborgen</string>
