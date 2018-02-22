@@ -500,11 +500,11 @@
   <string name="status_bar_am_pm_small">작게</string>
   <string name="status_bar_am_pm_hidden">숨김</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_style_title">Battery style</string>
+  <string name="status_bar_battery_style_title">배터리 표시 스타일</string>
   <string name="status_bar_battery_style_icon_portrait">세로 아이콘</string>
   <string name="status_bar_battery_style_icon_landscape">가로 아이콘</string>
   <string name="status_bar_battery_style_circle">원 아이콘</string>
-  <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
+  <string name="status_bar_battery_style_dotted_circle">점선 원</string>
   <string name="status_bar_battery_style_solid">두껍게</string>
   <string name="status_bar_battery_style_text">텍스트</string>
   <string name="status_bar_battery_style_hidden">숨김</string>
